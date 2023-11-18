@@ -31,6 +31,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](/circulate%20n%20values.png)
+![output](/![circulate n values](https://github.com/Thilakeshwaran/Circulate-the-values-of-N-variables/assets/147473132/89fe1a09-a6a8-4e23-af45-d83d54f19e2d)
+)
 ## Result:
 The given program are executed successfully
